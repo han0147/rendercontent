@@ -12,6 +12,9 @@ bin-release/
 *.air
 *.ipa
 *.apk
+*.exe
+
+#한국인블랙보스김불만사항 발생시 전화바람 01054643334
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
